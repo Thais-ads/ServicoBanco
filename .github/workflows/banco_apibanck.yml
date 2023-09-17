@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'apibanck'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BED178472E8D4BEDBED890BE14860C25 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2ACACB602C4646ACA2D69A34E07A520B }}
           package: .
